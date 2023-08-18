@@ -5,7 +5,7 @@ by [Xiaohan Xing](https://hathawayxxh.github.io/).
 This repository contains official PyTorch implementations of the paper 
 1. "Discrepancy and Gradient-guided Multi-Modal Knowledge Distillation for Pathological Glioma Grading" from MICCAI 2022.
 2. "Gradient modulated contrastive distillation of low-rank multi-modal knowledge for disease diagnosis" from MIA 2023.
-
+3. "Comprehensive Learning and Adaptive Teaching: Distilling Multi-Modal Knowledge for Pathological Glioma Grading" from MIA 2023.
 
 ## Citation:
 ```
